@@ -1,0 +1,11 @@
+# Hobby Bilgisayar - Beylikdüzü Teknik Servis
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hobbybilgisayar.com/sitemap.xml
+
+# Crawl delay (optional, courteous to bots)
+Crawl-delay: 1
